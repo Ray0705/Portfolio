@@ -1,8 +1,17 @@
-title: <p align = "center">Raghavendra </p>
-       <p align = "center">Srinivasan</p>
-logo: /assets/img/Logo.jpg
-description: 
-A result-oriented Professional with 2.5+ years of experience and extensive knowledge of programming. 
-show_downloads: true
-google_analytics:
+title: <p align="center"> Sajan Kedia </p>
+logo: /assets/img/logo.png
+
+description:
+<p align="center">
+
+
+<br>   
+I am working on Data Science and RPA related problems.
+Working for rSutra Analytics and Consulting Pvt. Ltd.
+Having 1.5+ years of experience as Data Analyst and RPA Developer.
+<br>
+</p>
+
+
+
 theme: jekyll-theme-minimal
