@@ -10,6 +10,6 @@ Made effective use of Streamlit build a prototype app and deployed this project 
 
 Used Heroku platform to build, run, and operate this application entirely in the cloud. 
 
-App Ref - (https://face-detection-app20.herokuapp.com/)
+App Ref - [Face Detection App](https://face-detection-app20.herokuapp.com/)
 
-GitHub Ref - (https://github.com/Ray0705/face_detection_app)
+GitHub Ref - [Face Detection App GitHub Repository](https://github.com/Ray0705/face_detection_app)
