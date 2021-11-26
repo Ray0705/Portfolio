@@ -1,8 +1,16 @@
+<style>
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+</style>
 
 title: <p align="center"> Raghavendra </p>
        <p align="center"> Srinivasan </p>
        
-logo: <img src="/assets/img/Logo.jpg" align="center">
+logo: <img src="/assets/img/Logo.jpg" class="center">
 
 description: <p align="center"> Aspiring Data Scientist </p>
 
