@@ -1,6 +1,6 @@
 title: <p align="center"> Raghavendra </p>
        <p align="center"> Srinivasan </p>
-logo: /assets/img/Logo.jpg
+logo: <img src="/assets/img/Logo.jpg" class="center">
 
 description: <p align="center"> Aspiring Data Scientist </p>
 
